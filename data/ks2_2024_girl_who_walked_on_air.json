@@ -1,0 +1,299 @@
+{
+  "id": "ks2_2024_girl_who_walked_on_air",
+  "title": "The Girl who Walked on Air (KS2 2024 Reading)",
+  "text": [
+  {
+    "type": "heading",
+    "text": "The Girl Who Walked on Air"
+  },
+  {
+    "type": "paragraph",
+    "text": "Louie stood before the tightrope. Her heart hammered with excitement. The rope stretched between two trees, three metres off the ground. It swayed slightly in the breeze. She was going to walk it."
+  },
+  {
+    "type": "paragraph",
+    "text": "Ned stared up at her, his eyes wide. “You ain’t getting up on that?” he said. “It isn’t safe, Louie. You can’t just get up on the rope and … well … do it. It’s a proper skill. It takes years of practice!”"
+  },
+  {
+    "type": "paragraph",
+    "text": "Louie just grinned. For weeks she had been getting up before dawn to practise in secret. Every morning, while Ned was snoring away in his cosy bed, she had come here to balance, to learn, to dream. This was her chance to prove she could be more than just a ticket girl at the circus. She could be a performer — maybe even as great as her hero, Blondin, the man who had once walked a tightrope across Niagara Falls."
+  },
+  {
+    "type": "paragraph",
+    "text": "She kicked off her clogs, tied her hair back with a piece of ribbon and asked Ned to give her a leg-up. He cupped his hands and lifted her towards the rope. Louie pushed off, balanced on her stomach for a moment and then carefully swung one leg over, gripping the rope between her feet."
+  },
+  {
+    "type": "paragraph",
+    "text": "“Now step back and watch,” she called, her voice steady though her insides fizzed with nerves."
+  },
+  {
+    "type": "paragraph",
+    "text": "Ned stepped back. Louie looked down at him — and immediately wished she hadn’t. The rope felt narrower than ever. Her stomach flipped. She swallowed hard, fixed her eyes on the far tree and breathed. Focus, Louie."
+  },
+  {
+    "type": "paragraph",
+    "text": "Arms out to the side, she took her first step. The rope trembled beneath her foot, but she didn’t wobble. She took another. And another. The world seemed to hold its breath. Then she began to move more smoothly, one foot placed carefully in front of the other."
+  },
+  {
+    "type": "paragraph",
+    "text": "After a few metres, her fear melted into exhilaration. It felt good to be watched. It made her think harder about how she moved. She tried to make more of a show of it — stretching out each leg in turn, flourishing her wrists like a dancer."
+  },
+  {
+    "type": "paragraph",
+    "text": "When she reached the end, she paused and looked down at Ned. He was staring, open-mouthed. Louie grinned. The flames were there inside her — excitement, pride, triumph. This was what she was meant to do."
+  },
+  {
+    "type": "paragraph",
+    "text": "She turned, steadied herself, and walked back across the rope, quicker this time. When she reached the middle, she leaned one hand on the tree trunk and laughed. Ned finally found his voice. “You did it!” he shouted. Louie hopped lightly down onto the grass and bowed. “Told you,” she said. “I’m going to be the girl who walks on air.”"
+  }
+],
+  "questions": [
+    {
+      "id": 14,
+      "label": "14",
+      "type": "single",
+      "text": "Her friend Ned was the first person to see Louie walk the tightrope. Why did she choose Ned?",
+      "options": [
+        "Because she trusted him to be honest with her and he had seen lots of acts, so he would know if she was good.",
+        "Because he was her best friend and would always say she was brilliant.",
+        "Because he was the only person nearby at the time.",
+        "Because he had a camera and could take photographs of her."
+      ],
+      "correctOptions": [0],
+      "maxScore": 1
+    },
+    {
+      "id": 15,
+      "label": "15",
+      "type": "single",
+      "text": "Ned thought that it was just one big prank when Louie wanted to climb onto the tightrope. Why did Ned think Louie was joking?",
+      "options": [
+        "Because he did not know she had been practising and thought she was inexperienced on the rope.",
+        "Because he already knew she was an expert tightrope walker.",
+        "Because he thought tightrope walking was very easy and anyone could do it.",
+        "Because he had already seen her perform the act many times before."
+      ],
+      "correctOptions": [0],
+      "maxScore": 1
+    },
+    {
+      "id": 16,
+      "label": "16",
+      "type": "multi",
+      "text": "Which THREE of these did Louie do just before walking the tightrope that day?",
+      "options": [
+        "She kicked off her clogs.",
+        "She put on a pair of thick gloves.",
+        "She tied back her hair.",
+        "She asked Ned to give her a leg-up onto the rope.",
+        "She put up posters to advertise the performance."
+      ],
+      "correctOptions": [0, 2, 3],
+      "maxScore": 3
+    },
+    {
+      "id": 17,
+      "label": "17",
+      "type": "single",
+      "text": "What was Ned doing every day while Louie practised tightrope walking?",
+      "options": [
+        "He was snoring away in his cosy bed.",
+        "He was secretly watching her practise.",
+        "He was practising tightrope walking himself.",
+        "He was helping to set up the circus ring."
+      ],
+      "correctOptions": [0],
+      "maxScore": 1
+    },
+    {
+      "id": 18,
+      "label": "18",
+      "type": "multi",
+      "text": "How do you know that Louie had thought about tightrope walking for a long time? Tick TWO.",
+      "options": [
+        "She says she had been practising every morning for as long as she could remember.",
+        "She decided to try tightrope walking only that afternoon.",
+        "She kept a scrapbook about tightrope walking and her hero Blondin.",
+        "She had never heard of any famous tightrope walkers before.",
+        "She first saw a tightrope the day before this story takes place."
+      ],
+      "correctOptions": [0, 2],
+      "maxScore": 2
+    },
+    {
+      "id": 19,
+      "label": "19",
+      "type": "matrix",
+      "text": "Read the part where Louie gets onto the rope. For each action, choose the number to show the order in which it happened (1 = first, 4 = last).",
+      "statements": [
+        {
+          "text": "Louie pushed off Ned’s hands.",
+          "options": ["1", "2", "3", "4"],
+          "correctIndex": 0
+        },
+        {
+          "text": "Louie balanced on her stomach on the rope.",
+          "options": ["1", "2", "3", "4"],
+          "correctIndex": 1
+        },
+        {
+          "text": "Louie looked down towards Ned.",
+          "options": ["1", "2", "3", "4"],
+          "correctIndex": 2
+        },
+        {
+          "text": "Louie stood up straight and looked forward.",
+          "options": ["1", "2", "3", "4"],
+          "correctIndex": 3
+        }
+      ],
+      "maxScore": 4
+    },
+    {
+      "id": 20,
+      "label": "20",
+      "type": "multi",
+      "text": "Look at page 7. Louie said to Ned, \"Now step back and watch.\" What TWO things does this show about Louie?",
+      "options": [
+        "She wanted Ned close by for safety.",
+        "She was confident that she would be safe.",
+        "She was showing off by going backwards.",
+        "She wanted Ned to be able to see her properly.",
+        "She was teaching Ned how to do it."
+      ],
+      "correctOptions": [1, 3],
+      "maxScore": 2
+    },
+    {
+      "id": 21,
+      "label": "21",
+      "type": "multi",
+      "text": "Look at page 7. Which THREE of these statements give evidence that tightrope walking is difficult?",
+      "options": [
+        "Louie needed help from Ned to get up onto the rope.",
+        "She ran quickly along the rope without looking down.",
+        "She had to move slowly and carefully to keep her balance.",
+        "She needed to concentrate and focus on every movement.",
+        "The rope was only a few centimetres above the ground."
+      ],
+      "correctOptions": [0, 2, 3],
+      "maxScore": 3
+    },
+    {
+      "id": 22,
+      "label": "22",
+      "type": "multi",
+      "text": "Read the paragraph beginning \"Arms out to the side…\". Which THREE of these show that Louie was feeling more confident on the rope at this point?",
+      "options": [
+        "She tried to make more of a show of it.",
+        "It felt good to be watched and made her think harder about how she moved.",
+        "She flourished her wrists and stretched out each leg in turn.",
+        "She clung to the rope and refused to move.",
+        "She begged Ned to help her down immediately."
+      ],
+      "correctOptions": [0, 1, 2],
+      "maxScore": 3
+    },
+    {
+      "id": 23,
+      "label": "23",
+      "type": "single",
+      "text": "Look at page 8. \"The flames were there inside me.\" How did Louie feel at this point?",
+      "options": [
+        "hot",
+        "amused",
+        "nervous",
+        "excited"
+      ],
+      "correctOptions": [3],
+      "maxScore": 1
+    },
+    {
+      "id": 24,
+      "label": "24",
+      "type": "single",
+      "text": "Focus, Louie. Who said this and how?",
+      "options": [
+        "Louie said it loudly.",
+        "Louie said it in her head.",
+        "Ned whispered it to himself.",
+        "Ned shouted it as a warning."
+      ],
+      "correctOptions": [1],
+      "maxScore": 1
+    },
+    {
+      "id": 25,
+      "label": "25",
+      "type": "multi",
+      "text": "Look at page 8. Which THREE of these show that Louie enjoyed performing to an audience?",
+      "options": [
+        "She wanted more people to watch her and to cheer.",
+        "She wished that no one was watching her at all.",
+        "She walked back and forth along the rope and did tricks instead of stopping.",
+        "She leaned on the tree and grinned at Ned.",
+        "She decided never to walk the tightrope again."
+      ],
+      "correctOptions": [0, 2, 3],
+      "maxScore": 3
+    },
+    {
+      "id": 26,
+      "label": "26",
+      "type": "matrix",
+      "text": "Look at the whole text. For each quotation, decide whether it shows that Ned was nervous about Louie’s tightrope walking.",
+      "statements": [
+        {
+          "text": "\"You ain’t getting up on that?\"",
+          "options": ["Yes, it shows he was nervous.", "No, it does not show he was nervous."],
+          "correctIndex": 0
+        },
+        {
+          "text": "\"It isn’t safe, Louie. You can’t just get up on the rope and … well … do it.\"",
+          "options": ["Yes, it shows he was nervous.", "No, it does not show he was nervous."],
+          "correctIndex": 0
+        },
+        {
+          "text": "\"It’s a proper skill. It takes years of practice!\"",
+          "options": ["Yes, it shows he was nervous.", "No, it does not show he was nervous."],
+          "correctIndex": 0
+        },
+        {
+          "text": "\"Shouldn’t I stay here? Just in case you fall?\"",
+          "options": ["Yes, it shows he was nervous.", "No, it does not show he was nervous."],
+          "correctIndex": 0
+        },
+        {
+          "text": "\"He thought it was all one big prank.\"",
+          "options": ["Yes, it shows he was nervous.", "No, it does not show he was nervous."],
+          "correctIndex": 1
+        }
+      ],
+      "maxScore": 5
+    },
+    {
+      "id": 27,
+      "label": "27",
+      "type": "matrix",
+      "text": "Look at the whole text. Match Louie’s feelings to the moment when she felt them.",
+      "statements": [
+        {
+          "text": "before going on the rope",
+          "options": ["shy", "anxious", "focused"],
+          "correctIndex": 1
+        },
+        {
+          "text": "while walking along the rope",
+          "options": ["shy", "anxious", "focused"],
+          "correctIndex": 2
+        },
+        {
+          "text": "back down on the ground",
+          "options": ["shy", "anxious", "focused"],
+          "correctIndex": 0
+        }
+      ],
+      "maxScore": 3
+    }
+  ]
+}

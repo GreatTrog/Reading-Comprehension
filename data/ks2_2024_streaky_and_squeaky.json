@@ -1,0 +1,336 @@
+{
+  "id": "ks2_2024_streaky_and_squeaky",
+  "title": "Streaky and Squeaky (KS2 2024 Reading)",
+  "text": [
+    {
+      "type": "paragraph",
+      "text": "Imagine treading through the rainforest in Madagascar and noticing hurried movements in the plants below you. You creep forward to investigate. Suddenly, you see a group of animals unlike anything that you have seen before. Ten of them are sniffing along the ground with long, pointy snouts that look almost like bird beaks. The creatures are quite small – maybe the size of a pet hamster. Their bodies are round and covered with spines like a hedgehog. They are brightly coloured like a bumblebee with yellow streaks running down their backs and legs. On their heads, each of the animals has a crown of bright yellow spikes."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are not hedgehogs, birds or bumblebees, even if they look like a confused hodgepodge of these animals. You have encountered a family of lowland streaked tenrecs. They are one of many species of tenrecs living in Madagascar."
+    },
+    {
+      "type": "heading",
+      "text": "Are all tenrecs the same?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lowland streaked tenrecs look unlike any of the other types of tenrec except for their cousins who live in highland rainforests. Highland streaked tenrecs are as spectacularly weird as their lowland cousins, but they have white stripes running down their sides instead of yellow ones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Both highland and lowland streaked tenrecs are very social animals and are the only kinds of tenrec that live in family groups."
+    },
+    {
+      "type": "heading",
+      "text": "What do tenrecs eat?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tenrecs forage in the rainforest for soft-bodied invertebrates such as worms and beetle larvae. They sometimes stamp on the ground with their forepaws, to create vibrations, which may increase earthworm activity. They have very fragile jawbones and can only eat soft food. If they tried to eat anything harder, it could damage or even break their jaws."
+    },
+    {
+      "type": "paragraph",
+      "text": "Madagascar is an island country in the Indian Ocean, off the coast of East Africa. It is well known for its range of weird and wonderful wildlife."
+    },
+    {
+      "type": "heading",
+      "text": "How do streaked tenrecs communicate?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes streaked tenrec families get separated in the rainforest and need to communicate with each other. They make high-pitched sounds when they need to find each other. This process is called stridulation."
+    },
+    {
+      "type": "heading",
+      "text": "What is stridulation?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Unlike other types of tenrecs, a streaked tenrec has special spines on its back that it can rub together to produce high-pitched squeaks and chirps. Crickets and other insects commonly use stridulation to communicate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Humans cannot hear the noises made when streaked tenrecs stridulate because they are made at sound frequencies that are too high for human hearing. Scientists need a specialist microphone to pick up and record the sounds."
+    },
+    {
+      "type": "heading",
+      "text": "What issues are streaked tenrecs facing?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Streaked tenrecs are unique to the rainforest in Madagascar and cannot be found anywhere else in the world. In recent years much of this landscape has been destroyed. As a result of deforestation, where humans cut down the rainforest for wood, tenrecs are in decline. Streaked tenrecs play an important role in their habitat as they hunt smaller creatures and are prey for larger animals like birds and snakes. Without tenrecs, the whole food-chain could be disrupted, causing serious problems for wildlife in Madagascar."
+    },
+    {
+      "type": "heading",
+      "text": "How are people helping streaked tenrecs?"
+    },
+    {
+      "type": "paragraph",
+      "text": "While there have been efforts to help tenrecs by keeping some in zoos, this is not necessarily the best solution due to their short lifespan and the need to keep them in groups or pairs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zoos are working to build a population of these animals by breeding them in captivity, so that people around the world can learn about the marvellous streakiness and squeakiness of the streaked tenrecs."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "label": "1",
+      "type": "single",
+      "text": "Madagascar is well known for its range of \"weird and wonderful wildlife\". What does this suggest?",
+      "options": [
+        "It is very difficult to find your way around the island.",
+        "Tenrecs are the most famous animals on the island.",
+        "There are lots of unusual animals on the island.",
+        "Streaked tenrecs live all over the world."
+      ],
+      "correctOptions": [2],
+      "maxScore": 1
+    },
+    {
+      "id": 2,
+      "label": "2",
+      "type": "single",
+      "text": "Read the paragraph beginning \"They are not hedgehogs…\". Which word in this paragraph means the same as \"met\"?",
+      "options": [
+        "encountered",
+        "confused",
+        "seen",
+        "animals"
+      ],
+      "correctOptions": [0],
+      "maxScore": 1
+    },
+    {
+      "id": 3,
+      "label": "3",
+      "type": "single",
+      "text": "How can you tell that streaked tenrecs are social animals?",
+      "options": [
+        "They live in family groups.",
+        "They live alone most of the time.",
+        "They hide when other tenrecs come near.",
+        "They only meet when they are eating."
+      ],
+      "correctOptions": [0],
+      "maxScore": 1
+    },
+    {
+      "id": 4,
+      "label": "4",
+      "type": "single",
+      "text": "Why are beetle larvae suitable food for streaked tenrecs?",
+      "options": [
+        "They are soft-bodied and easy to eat.",
+        "They are brightly coloured.",
+        "They can defend themselves.",
+        "They live in trees where tenrecs climb."
+      ],
+      "correctOptions": [0],
+      "maxScore": 1
+    },
+    {
+      "id": 5,
+      "label": "5",
+      "type": "matrix",
+      "text": "Match each paragraph to its main content.",
+      "statements": [
+        {
+          "text": "The paragraph beginning \"Imagine treading through…\"",
+          "options": ["appearance", "behaviour", "diet"],
+          "correctIndex": 0
+        },
+        {
+          "text": "The paragraph beginning \"Both highland and lowland streaked tenrecs are…\"",
+          "options": ["appearance", "behaviour", "diet"],
+          "correctIndex": 1
+        },
+        {
+          "text": "The paragraph beginning \"Tenrecs forage…\"",
+          "options": ["appearance", "behaviour", "diet"],
+          "correctIndex": 2
+        }
+      ],
+      "maxScore": 3
+    },
+    {
+      "id": 6,
+      "label": "6a",
+      "type": "single",
+      "text": "Which part of their body do tenrecs use to encourage worms?",
+      "options": [
+        "Their forepaws or feet",
+        "Their snout",
+        "Their spines",
+        "Their tail"
+      ],
+      "correctOptions": [0],
+      "maxScore": 1
+    },
+    {
+      "id": 7,
+      "label": "6b",
+      "type": "single",
+      "text": "Which part of their body do streaked tenrecs use to make sounds when they stridulate?",
+      "options": [
+        "Their forepaws",
+        "Their snouts",
+        "Their spines on their backs",
+        "Their tails"
+      ],
+      "correctOptions": [2],
+      "maxScore": 1
+    },
+    {
+      "id": 8,
+      "label": "7",
+      "type": "single",
+      "text": "When do streaked tenrecs communicate using stridulation?",
+      "options": [
+        "When they are lost or separated from each other.",
+        "When they are eating.",
+        "When they are sleeping.",
+        "When they are angry."
+      ],
+      "correctOptions": [0],
+      "maxScore": 1
+    },
+    {
+      "id": 9,
+      "label": "8",
+      "type": "matrix",
+      "text": "The text compares different features of streaked tenrecs with other animals. For each feature, choose the animal it is compared with.",
+      "statements": [
+        {
+          "text": "spines",
+          "options": ["cricket", "bird", "hedgehog", "bumblebee"],
+          "correctIndex": 0
+        },
+        {
+          "text": "markings",
+          "options": ["cricket", "bird", "hedgehog", "bumblebee"],
+          "correctIndex": 1
+        },
+        {
+          "text": "snout",
+          "options": ["cricket", "bird", "hedgehog", "bumblebee"],
+          "correctIndex": 2
+        },
+        {
+          "text": "sounds",
+          "options": ["cricket", "bird", "hedgehog", "bumblebee"],
+          "correctIndex": 3
+        }
+      ],
+      "maxScore": 4
+    },
+    {
+      "id": 10,
+      "label": "9",
+      "type": "matrix",
+      "text": "Look at the section \"What issues are streaked tenrecs facing?\" For each statement, decide whether it describes a serious problem facing streaked tenrecs.",
+      "statements": [
+        {
+          "text": "Their rainforest habitat is being destroyed by deforestation.",
+          "options": ["True", "False"],
+          "correctIndex": 0
+        },
+        {
+          "text": "The number of streaked tenrecs is in decline.",
+          "options": ["True", "False"],
+          "correctIndex": 0
+        },
+        {
+          "text": "They now have plenty of extra food to hunt.",
+          "options": ["True", "False"],
+          "correctIndex": 1
+        },
+        {
+          "text": "They are prey for larger animals such as birds and snakes.",
+          "options": ["True", "False"],
+          "correctIndex": 0
+        }
+      ],
+      "maxScore": 4
+    },
+    {
+      "id": 11,
+      "label": "10",
+      "type": "single",
+      "text": "Why are streaked tenrecs important to the rainforest?",
+      "options": [
+        "They are part of the food chain, hunting smaller creatures and being prey for larger animals.",
+        "They make the trees grow faster.",
+        "They clean the rivers and streams.",
+        "They plant new trees."
+      ],
+      "correctOptions": [0],
+      "maxScore": 1
+    },
+    {
+      "id": 12,
+      "label": "11",
+      "type": "single",
+      "text": "According to the text, why are streaked tenrecs rarely kept in zoos?",
+      "options": [
+        "They have short lifespans or need to be kept in groups or pairs.",
+        "They are too dangerous.",
+        "They eat too much.",
+        "They cannot live in captivity at all."
+      ],
+      "correctOptions": [0],
+      "maxScore": 1
+    },
+    {
+      "id": 13,
+      "label": "12",
+      "type": "single",
+      "text": "How are zoos trying to help streaked tenrecs?",
+      "options": [
+        "By breeding them in captivity to build up a larger population.",
+        "By releasing them into other countries.",
+        "By feeding them harder food.",
+        "By keeping them on their own."
+      ],
+      "correctOptions": [0],
+      "maxScore": 1
+    },
+    {
+      "id": 14,
+      "label": "13",
+      "type": "matrix",
+      "text": "Using information from the whole text, decide whether each statement is true or false.",
+      "statements": [
+        {
+          "text": "There are many different types of tenrec.",
+          "options": ["True", "False"],
+          "correctIndex": 0
+        },
+        {
+          "text": "Highland tenrecs have white streaks.",
+          "options": ["True", "False"],
+          "correctIndex": 0
+        },
+        {
+          "text": "Tenrecs communicate by stamping their forepaws on the ground.",
+          "options": ["True", "False"],
+          "correctIndex": 1
+        },
+        {
+          "text": "Tenrecs live for a long time.",
+          "options": ["True", "False"],
+          "correctIndex": 1
+        },
+        {
+          "text": "Lowland streaked tenrecs like to live alone.",
+          "options": ["True", "False"],
+          "correctIndex": 1
+        }
+      ],
+      "maxScore": 5
+    }
+  ]
+}

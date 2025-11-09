@@ -1,11 +1,11 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>KS2 SATs Reading Practice</title>
     <link rel="stylesheet" href="styles.css" />
-    <script src="script.js" defer></script>
+    <script src="app.js" defer></script>
   </head>
   <body>
     <header class="site-header">
@@ -15,122 +15,86 @@
           <h1>Reading Comprehension Coach</h1>
         </div>
         <p class="tagline">Read the passage, then work through each question.</p>
+        <div class="pack-selector">
+          <label for="pack-select" class="visually-hidden">Choose a pack</label>
+          <select id="pack-select" aria-label="Choose a question pack" disabled>
+            <option>Loading packs...</option>
+          </select>
+        </div>
       </div>
+      <nav class="question-tabs-bar" aria-label="Question navigation">
+        <ul id="question-list" class="question-tabs"></ul>
+      </nav>
     </header>
 
-    <main id="app" class="app-shell">
-      <section class="reading-panel" aria-labelledby="passage-title">
-        <article>
-          <h2 id="passage-title">The Lighthouse Keeper's Secret</h2>
-          <p>
-            The town of Gullhaven sits on the edge of a cliff, watching the
-            restless sea. At dawn each day the villagers wake to the steady wink
-            of Lantern Point Lighthouse. For years, the keeper, Mrs. Calder,
-            kept the light blazing even when storms tried to swallow it whole.
-            Children said she could whisper to the waves; fishermen swore she
-            knew which gulls carried the gossip of the sea.
-          </p>
-          <p>
-            One autumn, a new apprentice named Rafi arrived with questions as
-            tall as the tide. Mrs. Calder welcomed the help but warned him:
-            &ldquo;Every light has a story, and ours is still being written.&rdquo;
-            Rafi soon noticed strange deliveries&mdash;boxes of clockwork parts,
-            rolls of copper wire, jars of glow-lantern algae. Late at night, he
-            heard humming from the workshop beneath the lamp room.
-          </p>
-          <h3>The Midnight Experiment</h3>
-          <p>
-            Curious, Rafi followed the glow one fog-laden midnight. Mrs. Calder
-            stood beside a contraption of gears and mirrors shaped like a
-            seashell. &ldquo;It will help the light bend,&rdquo; she explained,
-            &ldquo;so it can reach ships hidden by the thickest fog.&rdquo;
-            Together they tuned the mirrors until the beam stretched farther
-            than ever before. The next morning, sailors reported that the sea
-            seemed to shine with its own lantern.
-          </p>
-          <p>
-            Word of the lighthouse's new power spread beyond Gullhaven. Some
-            visitors came to marvel; others came seeking to buy the invention.
-            Mrs. Calder refused. &ldquo;This light belongs to everyone who needs
-            it,&rdquo; she said. Rafi realized the real secret of Lantern Point
-            was not a machine, but the keeper's promise to guide every traveler,
-            even the unseen ones.
-          </p>
-          <h3>Looking Ahead</h3>
-          <p>
-            Winter approached, and with it, storms fiercer than any in
-            memory. Rafi and Mrs. Calder prepared the lighthouse: they polished
-            the lens, reinforced the tower, and stocked provisions. When the
-            first blizzard crashed against the cliff, the light held steady. The
-            villagers, warm in their cottages, watched the beam sweep across the
-            sea and felt safe knowing the lighthouse&mdash;and its
-            keepers&mdash;were still standing guard.
-          </p>
-        </article>
-      </section>
-
-      <aside class="question-panel">
-        <nav
-          class="question-sidebar"
-          aria-label="Question navigation"
-          aria-live="polite"
-        >
-          <h2>Questions</h2>
-          <ul id="question-list" class="question-list"></ul>
-        </nav>
-
-        <section id="question-box" class="question-box" aria-live="polite">
-          <div class="question-header">
-            <div>
-              <p id="question-progress" class="question-progress"></p>
-              <h2 id="question-title">Question</h2>
-              <span
-                id="question-feedback"
-                class="question-feedback"
-                aria-live="polite"
-                hidden
-              ></span>
+    <main id="app">
+      <section class="app-shell">
+        <section class="reading-panel" aria-labelledby="passage-title">
+          <article id="reading-content">
+            <h2 id="passage-title">Loading pack...</h2>
+            <div id="passage-body">
+              <p>Please wait while we load your reading passage.</p>
             </div>
-            <button
-              id="bookmark-btn"
-              class="bookmark-btn"
-              aria-pressed="false"
-              aria-label="Bookmark this question"
-              type="button"
-            >
-              ⚑ Bookmark
-            </button>
-          </div>
-          <p id="question-text" class="question-text">
-            Select a question to begin.
-          </p>
-          <div id="answer-area" class="answer-area"></div>
-          <div class="question-controls">
-            <button id="back-btn" class="nav-btn" type="button">Back</button>
-            <button id="next-btn" class="nav-btn" type="button">Next</button>
-          </div>
-          <div id="mark-warning" class="mark-warning" hidden>
-            <p id="mark-warning-message">
-              You're about to check your answers. You can still go back if you
-              need to change anything.
-            </p>
-            <div class="warning-actions">
-              <button id="cancel-mark-btn" class="secondary-btn" type="button">
-                Return to questions
-              </button>
-              <button id="confirm-mark-btn" class="primary-btn" type="button">
-                Yes, check my answers
-              </button>
-            </div>
-          </div>
-          <section
-            id="results-panel"
-            class="results-panel"
-            aria-live="polite"
-            hidden
-          ></section>
+          </article>
         </section>
-      </aside>
+
+        <aside class="question-panel">
+          <section id="question-box" class="question-box" aria-live="polite">
+            <div class="question-header">
+              <div>
+                <p id="question-progress" class="question-progress"></p>
+                <h2 id="question-title">Question</h2>
+                <span
+                  id="question-feedback"
+                  class="question-feedback"
+                  aria-live="polite"
+                  hidden
+                ></span>
+              </div>
+              <button
+                id="bookmark-btn"
+                class="bookmark-btn"
+                aria-pressed="false"
+                aria-label="Bookmark this question"
+                type="button"
+              >
+                Bookmark
+              </button>
+            </div>
+            <p id="question-text" class="question-text">
+              Select a question to begin.
+            </p>
+            <div id="answer-area" class="answer-area"></div>
+            <div class="question-controls">
+              <button id="back-btn" class="nav-btn" type="button">Back</button>
+              <button id="next-btn" class="nav-btn" type="button">Next</button>
+            </div>
+            <div id="mark-warning" class="mark-warning" hidden>
+              <p id="mark-warning-message">
+                You're about to check your answers. You can still go back if you
+                need to change anything.
+              </p>
+              <div class="warning-actions">
+                <button id="cancel-mark-btn" class="secondary-btn" type="button">
+                  Return to questions
+                </button>
+                <button id="confirm-mark-btn" class="primary-btn" type="button">
+                  Yes, check my answers
+                </button>
+              </div>
+            </div>
+            <section
+              id="results-panel"
+              class="results-panel"
+              aria-live="polite"
+              hidden
+            ></section>
+          </section>
+        </aside>
+      </section>
     </main>
   </body>
 </html>
+
+
+

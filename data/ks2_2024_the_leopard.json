@@ -1,0 +1,264 @@
+{
+  "id": "ks2_2024_the_leopard",
+  "title": "The Leopard (KS2 2024 Reading)",
+  "text": [
+  {
+    "type": "context",
+    "text": "In this account, the writer Ruskin Bond looks back on the experiences he had while living in the mountains and forests near Mussoorie, in northern India."
+  },
+  {
+    "type": "heading",
+    "text": "The Leopard"
+  },
+  {
+    "type": "paragraph",
+    "text": "I first saw the leopard when I was crossing the small stream at the bottom of the hill. As I began climbing, the grunting and chattering increased, as though the monkeys were trying to warn me of some hidden danger. A shower of pebbles came rattling down the steep hillside, and I looked up to see a sinewy, orange-gold leopard poised on a rock about twenty feet above me."
+  },
+  {
+    "type": "paragraph",
+    "text": "He was not looking toward me, but had his head thrust attentively forward. Yet he must have sensed my presence, because he slowly turned his head and looked down at me. He seemed a little puzzled at my presence there; and when, to give myself courage, I clapped my hands sharply, the leopard sprang away into the thickets, making absolutely no sound as he melted into the shadows. I had disturbed the animal in his quest for food. But a little later I heard the quickening cry of a deer as it fled through the forest. The hunt was still on."
+  },
+  {
+    "type": "paragraph",
+    "text": "The leopard, like other members of the cat family, is nearing extinction in India, and I was surprised to find one so close to Mussoorie. It was some weeks before I saw the leopard again, although I was often aware of its presence. A dry, rasping cough sometimes gave it away. At times I felt almost certain that I was being followed. Once, when I was late getting home, and the brief twilight gave way to a dark, moonless night, I was startled by a family of porcupines running about in a clearing. I looked around nervously, and saw two bright eyes staring at me from a thicket. I stood still, my heart banging away against my ribs. Then the eyes danced away, and I realised that they were only fireflies."
+  },
+  {
+    "type": "paragraph",
+    "text": "On one occasion, I found the remains of a deer, which had only been partly eaten. I wondered why the leopard had not hidden the rest of his meal, and decided that it must have been disturbed while eating."
+  },
+  {
+    "type": "paragraph",
+    "text": "Then, climbing the hill, I met a party of hunters resting beneath the oaks. They asked me if I had seen a leopard. I said I had not. They said they knew there was a leopard in the forest."
+  },
+  {
+    "type": "paragraph",
+    "text": "Leopard skins, they told me, were selling in Delhi for very good money. Of course there was a ban on the export of skins, but they gave me to understand that there were ways and means. I thanked them for their information and walked on, feeling uneasy and disturbed."
+  },
+  {
+    "type": "paragraph",
+    "text": "The hunters had seen the carcass of the deer, and they had seen the leopard paw prints, and so they kept coming to the forest. Almost every evening I heard their guns banging away, for they were ready to fire at almost anything."
+  },
+  {
+    "type": "paragraph",
+    "text": "“There’s a leopard about,” they always told me. “You should carry a gun.”"
+  },
+  {
+    "type": "paragraph",
+    "text": "“I don’t have one,” I said, and they went away."
+  },
+  {
+    "type": "paragraph",
+    "text": "After that, there were fewer birds to be seen, and even the monkeys had moved on. The pine martens, who had previously become bold, now dashed into hiding at my approach. The smell of one human is like the smell of any other."
+  },
+  {
+    "type": "paragraph",
+    "text": "One day, I was out walking and came across the entrance to a cave. The silence was so absolute that it seemed to be ringing in my ears. But there was something else of which I was becoming increasingly aware: the strong feline odour of one of the cat family. I paused, and listened. There was no movement. The leopard was in there, I was sure, but he too was silent, watching me, aware of me."
+  },
+  {
+    "type": "paragraph",
+    "text": "Perhaps I had made him confident – too confident, too careless, too trusting of the human in his midst. I did not venture any further; I was not out of my mind. I did not seek physical contact, or even another glimpse of that beautiful, sinewy body, springing from rock to rock. It was his trust I wanted, and I think he gave it to me."
+  },
+  {
+    "type": "paragraph",
+    "text": "But did the leopard, trusting one man, make the mistake of bestowing his trust on others? Did I, by casting out all fear – my own fear, and the leopard’s protective fear – leave him defenceless?"
+  }
+],
+  "questions": [
+  {
+    "id": 28,
+    "label": "28",
+    "type": "multi",
+    "text": "Read the first paragraph, beginning: \"I first saw the leopard...\" Ruskin noticed several signs that the leopard was nearby before he actually saw it. Which TWO of these signs does the paragraph mention?",
+    "options": [
+      "The monkeys’ grunting and chattering increased.",
+      "A shower of pebbles came rattling down the hillside.",
+      "He heard the leopard coughing.",
+      "He saw fresh paw prints on the path.",
+      "He saw the leopard’s eyes shining in the dark."
+    ],
+    "correctOptions": [0, 1],
+    "maxScore": 2
+  },
+  {
+    "id": 29,
+    "label": "29",
+    "type": "single",
+    "text": "Read the sentence: \"...he must have sensed my presence...\" What does sensed my presence mean?",
+    "options": [
+      "He became aware that Ruskin was there, even without looking at him.",
+      "He could smell Ruskin’s scent from a long way away.",
+      "He heard Ruskin’s footsteps on the path.",
+      "He could see Ruskin clearly in front of him."
+    ],
+    "correctOptions": [0],
+    "maxScore": 1
+  },
+  {
+    "id": 30,
+    "label": "30",
+    "type": "single",
+    "text": "Read the sentence: \"...he melted into the shadows...\" What does the word melted mean in this sentence?",
+    "options": [
+      "He silently disappeared into the shadows so he could no longer be seen.",
+      "He turned into liquid and flowed away.",
+      "He became hotter and more dangerous.",
+      "He stopped moving and fell asleep in the shadows."
+    ],
+    "correctOptions": [0],
+    "maxScore": 1
+  },
+  {
+    "id": 31,
+    "label": "31",
+    "type": "single",
+    "text": "Read the paragraph beginning: \"He was not looking toward me...\" What did Ruskin think the leopard had been doing before he noticed it?",
+    "options": [
+      "Hunting for food, such as deer.",
+      "Sleeping in the sun.",
+      "Drinking from the stream.",
+      "Playing with other leopards."
+    ],
+    "correctOptions": [0],
+    "maxScore": 1
+  },
+  {
+    "id": 32,
+    "label": "32",
+    "type": "single",
+    "text": "Read the paragraph beginning: \"The leopard, like other members...\" In the weeks after he first saw it, what sign did Ruskin have that the leopard was still in the area?",
+    "options": [
+      "He saw it at twilight.",
+      "He heard its heartbeat.",
+      "He heard it coughing.",
+      "He saw it on the rock."
+    ],
+    "correctOptions": [2],
+    "maxScore": 1
+  },
+  {
+    "id": 33,
+    "label": "33",
+    "type": "single",
+    "text": "Look at page 11 of the text. Which word from the text shows that the hunters made Ruskin feel uncomfortable?",
+    "options": [
+      "uneasy",
+      "excited",
+      "relaxed",
+      "curious"
+    ],
+    "correctOptions": [0],
+    "maxScore": 1
+  },
+  {
+    "id": 34,
+    "label": "34",
+    "type": "multi",
+    "text": "Look at page 11. How did the hunters know that there was a leopard in the forest? Tick TWO ways.",
+    "options": [
+      "They saw paw prints or leopard prints.",
+      "They saw the deer’s carcass.",
+      "They heard the leopard coughing in the trees.",
+      "They watched the leopard crossing the stream.",
+      "They found its cave."
+    ],
+    "correctOptions": [0, 1],
+    "maxScore": 2
+  },
+  {
+    "id": 35,
+    "label": "35",
+    "type": "single",
+    "text": "Read the paragraph beginning: \"One day...\" What made Ruskin suspect that the leopard was inside the cave?",
+    "options": [
+      "He could smell the strong feline odour of one of the cat family.",
+      "He saw fresh leopard tracks leading into the cave.",
+      "He heard the leopard growling from inside.",
+      "He saw the leopard’s eyes shining in the darkness."
+    ],
+    "correctOptions": [0],
+    "maxScore": 1
+  },
+  {
+    "id": 36,
+    "label": "36",
+    "type": "matrix",
+    "text": "Look at page 11. Using information from the text, tick one box in each row to show whether each statement is true or false.",
+    "statements": [
+      {
+        "text": "Exporting skins was not allowed.",
+        "options": ["True", "False"],
+        "correctIndex": 0
+      },
+      {
+        "text": "The leopard could be heard from outside the cave.",
+        "options": ["True", "False"],
+        "correctIndex": 1
+      },
+      {
+        "text": "The hunters used their weapons carefully.",
+        "options": ["True", "False"],
+        "correctIndex": 1
+      },
+      {
+        "text": "The pine martens were scared of Ruskin.",
+        "options": ["True", "False"],
+        "correctIndex": 0
+      }
+    ],
+    "maxScore": 4
+  },
+  {
+    "id": 37,
+    "label": "37",
+    "type": "matrix",
+    "text": "Read from the paragraph beginning: \"I paused...\" to the paragraph ending: \"...ignoring me altogether.\" Tick one box in each row to show whether each statement is something Ruskin knew or something Ruskin imagined.",
+    "statements": [
+      {
+        "text": "There was no movement inside the cave.",
+        "options": ["Ruskin knew", "Ruskin imagined"],
+        "correctIndex": 0
+      },
+      {
+        "text": "The leopard was hiding inside the cave.",
+        "options": ["Ruskin knew", "Ruskin imagined"],
+        "correctIndex": 1
+      },
+      {
+        "text": "The leopard recognised Ruskin.",
+        "options": ["Ruskin knew", "Ruskin imagined"],
+        "correctIndex": 1
+      }
+    ],
+    "maxScore": 3
+  },
+  {
+    "id": 38,
+    "label": "38",
+    "type": "single",
+    "text": "Read the paragraph beginning: \"Perhaps I had made...\" and the sentence \"I did not venture any further...\" Which of the following is closest in meaning to venture in this sentence?",
+    "options": [
+      "think about things",
+      "plan ahead",
+      "ask questions",
+      "dare to explore"
+    ],
+    "correctOptions": [3],
+    "maxScore": 1
+  },
+  {
+    "id": 39,
+    "label": "39",
+    "type": "multi",
+    "text": "Ruskin’s personality made him different from the hunters he met in the forest. Which THREE of these statements best show how his personality was different?",
+    "options": [
+      "He cared about protecting animals and did not want them to be harmed.",
+      "He preferred not to use guns or violence against animals.",
+      "He wanted to kill the leopard to sell its skin for good money.",
+      "He thought carefully about the effect people had on the forest and its wildlife.",
+      "He was eager to join the hunters and fire at anything he saw."
+    ],
+    "correctOptions": [0, 1, 3],
+    "maxScore": 3
+  }
+]
+}
